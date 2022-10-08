@@ -1,0 +1,12 @@
+C:\Users\Hello Friend\Desktop\AP AC5\AP AC5\bin\Debug\AP AC5.exe.config
+C:\Users\Hello Friend\Desktop\AP AC5\AP AC5\bin\Debug\AP AC5.exe
+C:\Users\Hello Friend\Desktop\AP AC5\AP AC5\bin\Debug\AP AC5.pdb
+C:\Users\Hello Friend\Desktop\AP AC5\AP AC5\bin\Debug\AP AC5.xml
+C:\Users\Hello Friend\Desktop\AP AC5\AP AC5\obj\Debug\AP AC5.vbprojResolveAssemblyReference.cache
+C:\Users\Hello Friend\Desktop\AP AC5\AP AC5\obj\Debug\AP_AC5.Resources.resources
+C:\Users\Hello Friend\Desktop\AP AC5\AP AC5\obj\Debug\AP AC5.vbproj.GenerateResource.Cache
+C:\Users\Hello Friend\Desktop\AP AC5\AP AC5\obj\Debug\AP AC5.exe
+C:\Users\Hello Friend\Desktop\AP AC5\AP AC5\obj\Debug\AP AC5.xml
+C:\Users\Hello Friend\Desktop\AP AC5\AP AC5\obj\Debug\AP AC5.pdb
+C:\Users\Hello Friend\Desktop\AP AC5\AP AC5\obj\Debug\AP_AC5.Cashier.resources
+C:\Users\Hello Friend\Desktop\AP AC5\AP AC5\obj\Debug\AP_AC5.Customer.resources
